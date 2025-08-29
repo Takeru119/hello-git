@@ -1,0 +1,24 @@
+# OS / エディタごみ
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# 依存物
+node_modules/
+vendor/
+
+# 一時/生成物
+dist/
+build/
+coverage/
+cache/
+tmp/
+*.tmp
+
+# 秘密情報
+.env
+.env.*
